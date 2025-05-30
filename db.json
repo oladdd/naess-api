@@ -1,5 +1,43 @@
 {
   "elements": {
+    "home": {
+      "hero": {
+        "title": "Navigating Excellence Since 1980",
+        "description": "Serving the global maritime industry with world-class crewing and management services."
+      },
+      "services": {
+        "title": "Our Services",
+        "description": "NAESS Shipping offers top-tier maritime recruitment, crewing, and management services to ensure efficient sea operations, handling everything from crew selection to post-contract support."
+      },
+      "about": {
+        "title": "About NAESS",
+        "description": "Established in 1980, NAESS Shipping Philippines, Inc. is a 100% Filipino-owned ship manning and management agency. With a legacy of excellence and integrity, we provide world-class maritime crewing solutions, ensuring the success of both seafarers and global shipping partners."
+      },
+      "clients": {
+        "title": "Out Trusted Clients",
+        "description": "We're proud to partner with leading organizations across the maritime industry, providing exceptional services and solutions."
+      },
+      "facts": {
+        "title": "Facts about NAESS",
+        "description": "Great facts that define Naess' excellence in maritime service."
+      },
+      "recognitions": {
+        "title": "Recognitions",
+        "description": "Recognized for excellence, certified for quality—our accreditations speak for our commitment to global standards."
+      },
+      "career": {
+        "title": "Apply now at NAESS",
+        "description": "Looking for your next opportunity at sea? Explore our job openings and apply today!"
+      },
+      "news": {
+        "title": "Latest News & Updates",
+        "description": "Stay informed with the latest developments, company news, and industry insights from NAESS."
+      },
+      "contact": {
+        "title": "Get in Touch with Us",
+        "description": "Reach out today to learn more about our services and how we can assist you."
+      }
+    },
     "homeCarousel": [
       { "type": "image", "src": "/images/home/home-ship-image.jpg" },
       { "type": "image", "src": "/images/omegagas-ship.png" },
@@ -220,13 +258,21 @@
     },
     {
       "id": "8",
-      "type": "event",
-      "title": "Team Building",
-      "summary": "An evening of networking with industry peers, featuring refreshments and a panel discussion.",
-      "content": "An evening of networking with industry peers, featuring refreshments and a panel discussion. This relaxed event provides a perfect opportunity to connect with other professionals in your field, share experiences, and discover potential collaboration opportunities. The panel discussion will explore current industry trends and future predictions, with plenty of time for audience questions and discussion. Attendance is limited to ensure quality interactions, so early registration is recommended.",
-      "feature_image": "/images/news/coming-soon.jpg",
+      "type": "news",
+      "title": "Team Building: Moments Captured during Our Company Getaway 2025",
+      "summary": "Last Friday reminded us that the best teams aren't just built in meeting rooms—they're built through shared laughs, spontaneous moments, and a change of scenery. ",
+      "content": "Last Friday reminded us that the best teams aren't just built in meeting rooms—they're built through shared laughs, spontaneous moments, and a change of scenery. Here's to more moments like this that make the work feel even more meaningful.",
+      "feature_image": "/images/news/05-07-2025/img-1.jpg",
       "image": [
-        "/images/news/coming-soon.jpg"
+        "/images/news/05-07-2025/img-1.jpg",
+        "/images/news/05-07-2025/img-2.jpg",
+        "/images/news/05-07-2025/img-3.jpg",
+        "/images/news/05-07-2025/img-4.jpg",
+        "/images/news/05-07-2025/img-5.jpg",
+        "/images/news/05-07-2025/img-6.jpg",
+        "/images/news/05-07-2025/img-7.jpg",
+        "/images/news/05-07-2025/img-8.jpg",
+        "/images/news/05-07-2025/img-9.jpg"
       ],
       "date": "2025-05-02",
       "location": "Calamba, Laguna",
@@ -293,6 +339,55 @@
       "author": "HR Management",
       "tags": [
         "Annual Board Meeting"
+      ]
+    },
+    {
+      "id": "12",
+      "type": "news",
+      "title": "NAESS Shipping Philippines Anchored in Legacy, Sailing Towards Excellence",
+      "summary": "Every day, our teams go above and beyond, ensuring that our services meet the highest standards. Their dedication not only drives our success but also fosters a culture of collaboration and integrity.",
+      "content": "At NAESS Shipping Philippines, our legacy is built upon the unwavering commitment and professionalism of our employees. Each department, from Crew Manning to Operations, Finance, and beyond, plays a pivotal role in propelling us toward excellence. Every day, our teams go above and beyond, ensuring that our services meet the highest standards. Their dedication not only drives our success but also fosters a culture of collaboration and integrity. As we showcase the faces behind our departments, we honor their hard work and the collective spirit that defines NAESS. Here's to the individuals who make our vision a reality. Thank you for your relentless pursuit of excellence.",
+      "feature_image": "/images/news/05-29-2025/img-1.jpg",
+      "image": [
+        "/images/news/05-29-2025/img-1.jpg",
+        "/images/news/05-29-2025/img-2.jpg",
+        "/images/news/05-29-2025/img-3.jpg",
+        "/images/news/05-29-2025/img-4.jpg",
+        "/images/news/05-29-2025/img-5.jpg",
+        "/images/news/05-29-2025/img-6.jpg",
+        "/images/news/05-29-2025/img-7.jpg",
+        "/images/news/05-29-2025/img-8.jpg",
+        "/images/news/05-29-2025/img-9.jpg",
+        "/images/news/05-29-2025/img-10.jpg",
+        "/images/news/05-29-2025/img-11.jpg",
+        "/images/news/05-29-2025/img-12.jpg",
+        "/images/news/05-29-2025/img-13.jpg",
+        "/images/news/05-29-2025/img-14.jpg",
+        "/images/news/05-29-2025/img-15.jpg",
+        "/images/news/05-29-2025/img-16.jpg",
+        "/images/news/05-29-2025/img-17.jpg",
+        "/images/news/05-29-2025/img-18.jpg"
+      ],
+      "date": "2025-05-29",
+      "author": "HR Management",
+      "tags": [
+        "Department", "About Us"
+      ]
+    },
+    {
+      "id": "13",
+      "type": "news",
+      "title": "Anchoring partnerships for a stronger maritime future.",
+      "summary": "CH Eng. Puray, President of Bicol Merchant Marine School, paid a courtesy visit to NAESS Shipping Philippines Inc. to strengthen industry-academe collaboration and explore future training opportunities for Filipino maritime cadets.",
+      "content": "CH Eng. Puray, President of Bicol Merchant Marine School, paid a courtesy visit to NAESS Shipping Philippines Inc. to strengthen industry-academe collaboration and explore future training opportunities for Filipino maritime cadets. ",
+      "feature_image": "/images/news/05-28-2025/img-1.jpg",
+      "image": [
+        "/images/news/05-28-2025/img-1.jpg"
+      ],
+      "date": "2025-05-28",
+      "author": "HR Management",
+      "tags": [
+        "Department", "About Us"
       ]
     }
   ],
@@ -663,6 +758,48 @@
       "type": "Test",
       "startDate": "2025-04-24",
       "endDate": "2025-04-24",
+      "time": "",
+      "businessHours": {
+        "start": null,
+        "end": null
+      },
+      "note": ""
+    },
+    {
+      "id": "4",
+      "title": "Test Event",
+      "description": "Just a test event",
+      "type": "Test",
+      "startDate": "2025-06-04",
+      "endDate": "2025-06-04",
+      "time": "",
+      "businessHours": {
+        "start": null,
+        "end": null
+      },
+      "note": ""
+    },
+    {
+      "id": "5",
+      "title": "Test Event 2",
+      "description": "Just a test event 2",
+      "type": "Test",
+      "startDate": "2025-06-05",
+      "endDate": "2025-06-05",
+      "time": "",
+      "businessHours": {
+        "start": null,
+        "end": null
+      },
+      "note": ""
+    },
+    {
+      "id": "6",
+      "title": "Test Event 3",
+      "description": "Just a test event 3",
+      "type": "Test",
+      "startDate": "2025-06-06",
+      "endDate": "2025-06-06",
       "time": "",
       "businessHours": {
         "start": null,
