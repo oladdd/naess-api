@@ -728,36 +728,33 @@
   "publicUpdates": [
     {
       "id": "1",
-      "title": "Holy Week",
-      "description": "No pasok April 14 - April 15, Half day sa April 16. Mag pray pray",
+      "title": "San Juan Day",
+      "description": "Mabasa aq",
       "type": "Close",
-      "startDate": "2025-04-14",
-      "endDate": "2025-04-16",
+      "startDate": "2025-06-25",
+      "endDate": "2025-06-25",
       "time": null,
       "businessHours": null,
       "note": null
     },
     {
       "id": "2",
-      "title": "Team Building",
-      "description": "Company-wide event",
+      "title": "Piesta ng San Juan",
+      "description": "Nakakabasa",
       "type": "Event",
-      "startDate": "2025-05-02",
-      "endDate": "2025-05-02",
-      "time": "22:30",
-      "businessHours": {
-        "start": "08:00",
-        "end": "12:00"
-      },
-      "note": ""
+      "startDate": "2025-06-27",
+      "endDate": "2025-06-27",
+      "time": null,
+      "businessHours": null,
+      "note": null
     },
     {
       "id": "3",
       "title": "Test Event",
       "description": "Just a test event",
       "type": "Test",
-      "startDate": "2025-04-24",
-      "endDate": "2025-04-24",
+      "startDate": "2025-07-11",
+      "endDate": "2025-07-12",
       "time": "",
       "businessHours": {
         "start": null,
@@ -770,8 +767,8 @@
       "title": "Test Event",
       "description": "Just a test event",
       "type": "Test",
-      "startDate": "2025-06-04",
-      "endDate": "2025-06-04",
+      "startDate": "2025-07-28",
+      "endDate": "2025-07-28",
       "time": "",
       "businessHours": {
         "start": null,
@@ -781,25 +778,11 @@
     },
     {
       "id": "5",
-      "title": "Test Event 2",
+      "title": "Birthday ni Mark",
       "description": "Just a test event 2",
       "type": "Test",
-      "startDate": "2025-06-05",
-      "endDate": "2025-06-05",
-      "time": "",
-      "businessHours": {
-        "start": null,
-        "end": null
-      },
-      "note": ""
-    },
-    {
-      "id": "6",
-      "title": "Test Event 3",
-      "description": "Just a test event 3",
-      "type": "Test",
-      "startDate": "2025-06-06",
-      "endDate": "2025-06-06",
+      "startDate": "2025-07-28",
+      "endDate": "2025-07-28",
       "time": "",
       "businessHours": {
         "start": null,
